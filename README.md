@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040261
+# Name: Mugilarasi E
+# Date:28/10/2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1057" height="850" alt="image" src="https://github.com/user-attachments/assets/8ae563da-4429-4967-853e-57b92d87eb9c" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1084" height="861" alt="image" src="https://github.com/user-attachments/assets/b9d1e9b2-fe84-44d6-bb65-89be125cc86b" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1058" height="714" alt="image" src="https://github.com/user-attachments/assets/70e33ef2-021b-44c9-a740-7dd6c9e8e51d" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1061" height="794" alt="image" src="https://github.com/user-attachments/assets/30fc1ae8-100d-4f1a-a7d9-a796bb3a6b64" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1069" height="864" alt="image" src="https://github.com/user-attachments/assets/f74baf78-f03c-4f92-bcbb-37ab5f9a3db9" />
 
 
 
@@ -119,6 +124,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1089" height="862" alt="image" src="https://github.com/user-attachments/assets/00939b04-8d53-4351-9b8d-4cf871184139" />
 
 
 
